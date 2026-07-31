@@ -84,30 +84,6 @@
 
 ---
 
-# 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=rajkumar1395&show_icons=true&theme=tokyonight&hide_border=true)
-
----
-
-# 🔥 GitHub Streak
-
-![](https://streak-stats.demolab.com?user=rajkumar1395&theme=tokyonight&hide_border=true)
-
----
-
-# 📈 Most Used Languages
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rajkumar1395&layout=compact&theme=tokyonight&hide_border=true)
-
----
-
-# 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=rajkumar1395&theme=tokyonight&no-frame=true&row=1)
-
----
-
 # 🚀 Featured Projects
 
 | Project | Description |
@@ -125,16 +101,12 @@
 
 <p align="left">
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://www.linkedin.com/in/raj-kumar-web-designer/">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
-<a href="https://github.com/rajkumar1395">
+<a href="https://github.com/rajkumarfullstack">
 <img src="https://skillicons.dev/icons?i=github" />
-</a>
-
-<a href="https://YOUR-PORTFOLIO.com">
-<img src="https://skillicons.dev/icons?i=webstorm" />
 </a>
 
 </p>
@@ -143,7 +115,7 @@
 
 # 📫 Contact
 
-📧 your-email@example.com
+📧 developer.rk2106@gmail.com
 
 🌐 https://YOUR-PORTFOLIO.com
 
