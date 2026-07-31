@@ -117,8 +117,6 @@
 
 📧 developer.rk2106@gmail.com
 
-🌐 https://YOUR-PORTFOLIO.com
-
 ---
 
 <div align="center">
